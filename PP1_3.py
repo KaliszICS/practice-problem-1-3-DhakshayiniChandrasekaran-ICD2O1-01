@@ -1,4 +1,9 @@
-
+''' 
+    Lesson 3 - Using Strings
+    Author: dhakshayini  
+    Date Created: September 17th, 2024 
+    Date Last Modified: September 17th, 2024 
+'''
 
 def q1():
   #Write Assignment code here
